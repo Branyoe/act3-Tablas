@@ -1,0 +1,84 @@
+.textCenter{
+  text-align: center;
+}
+
+.backColorWhite{
+  background-color: white;
+}
+
+.backColorBlack{
+  background-color: black;
+}
+
+.txt300{
+  font-size: 300%;
+}
+
+@font-face{
+  font-family: sanFranciscoBlack;
+  src: url(../fonts/SFNSDisplay-Black.otf);
+}
+@font-face{
+  font-family: sanFranciscoMedium;
+  src: url(../fonts/SFNSDisplay-Medium.otf);
+}
+@font-face{
+  font-family: sanFranciscoHeavy;
+  src: url(../fonts/SFNSDisplay-Heavy.otf);
+}
+
+@font-face{
+  font-family: sanFranciscoBold;
+  src: url(../fonts/SFNSDisplay-Bold.otf);
+}
+
+.sanFscoBlack{
+  font-family: sanFranciscoBlack;
+}
+
+.sanFscoBold{
+  font-family: sanFranciscoBold;
+}
+
+.sanFscoMedium{
+  font-family: sanFranciscoMedium;
+  
+}
+
+.sanFscoHeavy{
+  font-family: sanFranciscoHeavy;
+}
+
+.bg-white{
+  background-color: white;
+}
+
+.scroll{
+  overflow: auto;
+}
+
+td,th{
+  vertical-align: middle !important;
+}
+
+.verticalCenter{
+  vertical-align: middle;
+}
+
+.bg-green{
+  background-color: lightseagreen;
+}
+.bg-grey{
+  background-color: lightgrey;
+}
+.bg-blue{
+  background-color: lightsteelblue;
+}
+.bg{
+  background-color: slategray;
+}
+
+.imgCircle{
+  border-radius: 100%;
+}
+
